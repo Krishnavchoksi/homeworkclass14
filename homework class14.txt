@@ -1,0 +1,6 @@
+What is the difference between Constructor and method?
+
+- The main difference between java constructor is not have a return()type and java method have a return()type.
+
+-Method is a special type of method it is used to initialize the object and everytime an object is creating using a new() keyword it's called constructor.
+
